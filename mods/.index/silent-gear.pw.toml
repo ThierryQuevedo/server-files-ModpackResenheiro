@@ -1,0 +1,21 @@
+filename = 'silent-gear-1.20.1-3.6.7.jar'
+name = 'Silent Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.6.7'
+
+[download]
+hash = 'b1d3d30e20aa95672425de2d503c686157108e7541e70ca9742f228887c3092aa1a5099aa64c9f15f737a7b5c317a974db6a42d25a424af2a1a9b831b3fefeeb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/73mSSnCf/versions/2Chvw4VA/silent-gear-1.20.1-3.6.7.jar'
+
+[update.modrinth]
+mod-id = '73mSSnCf'
+version = '2Chvw4VA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BQhuHQo4'
+type = 'REQUIRED'

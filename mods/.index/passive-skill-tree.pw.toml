@@ -1,0 +1,21 @@
+filename = 'PassiveSkillTree-1.20.1-BETA-0.7.4-all.jar'
+name = 'Passive Skill Tree'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'PassiveSkillTree-1.20.1-BETA-0.7.4-all.jar'
+
+[download]
+hash = 'bd15235ebeb0f37ee34e08a3ff94f9674b4ddb8e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7897205
+project-id = 850298
+
+[[x-prismlauncher-dependencies]]
+addonId = '280510'
+type = 'REQUIRED'
