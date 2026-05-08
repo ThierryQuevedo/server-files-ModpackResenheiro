@@ -3953,21 +3953,34 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2026-04-30 20:30:37 -0300",
       "minecraft:taiga": "2026-04-30 22:50:52 -0300",
+      "minecraft:deep_ocean": "2026-05-08 15:33:33 -0300",
       "minecraft:frozen_river": "2026-04-30 22:47:56 -0300",
       "minecraft:cherry_grove": "2026-05-01 14:52:05 -0300",
       "minecraft:sunflower_plains": "2026-05-05 21:20:06 -0300",
+      "minecraft:bamboo_jungle": "2026-05-08 15:39:07 -0300",
       "minecraft:beach": "2026-05-05 21:20:26 -0300",
       "minecraft:dark_forest": "2026-04-30 20:31:00 -0300",
+      "minecraft:stony_peaks": "2026-05-08 15:39:53 -0300",
+      "minecraft:sparse_jungle": "2026-05-08 15:35:59 -0300",
       "minecraft:river": "2026-04-30 20:46:03 -0300",
+      "minecraft:lukewarm_ocean": "2026-05-08 15:34:41 -0300",
       "minecraft:snowy_plains": "2026-04-30 22:17:06 -0300",
       "minecraft:stony_shore": "2026-05-05 21:22:37 -0300",
       "minecraft:snowy_taiga": "2026-04-30 22:48:05 -0300",
       "minecraft:dripstone_caves": "2026-05-05 20:55:28 -0300",
+      "minecraft:grove": "2026-05-08 15:19:50 -0300",
       "minecraft:jagged_peaks": "2026-05-01 14:40:05 -0300",
+      "minecraft:cold_ocean": "2026-05-08 15:20:40 -0300",
       "minecraft:forest": "2026-04-30 18:58:13 -0300",
       "minecraft:lush_caves": "2026-04-30 20:48:54 -0300",
+      "minecraft:deep_cold_ocean": "2026-05-08 15:32:25 -0300",
+      "minecraft:frozen_ocean": "2026-05-08 14:38:58 -0300",
+      "minecraft:deep_frozen_ocean": "2026-05-08 14:39:42 -0300",
+      "minecraft:jungle": "2026-05-08 15:35:34 -0300",
+      "minecraft:ocean": "2026-05-08 15:33:43 -0300",
       "minecraft:old_growth_spruce_taiga": "2026-04-30 21:43:43 -0300",
       "minecraft:windswept_savanna": "2026-05-01 15:21:34 -0300",
+      "minecraft:deep_lukewarm_ocean": "2026-05-08 15:34:46 -0300",
       "minecraft:flower_forest": "2026-05-05 21:19:56 -0300",
       "minecraft:frozen_peaks": "2026-04-30 20:38:27 -0300",
       "minecraft:deep_dark": "2026-05-01 15:37:05 -0300",
@@ -15690,6 +15703,7 @@
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
+      "chemical_dissolution_chamber": "2026-05-08 13:17:48 -0300",
       "chemical_crystallizer": "2026-05-07 15:27:09 -0300"
     },
     "done": false
@@ -15931,6 +15945,276 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2026-05-07 18:37:26 -0300"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reprocessor/powerport": {
+    "criteria": {
+      "has_item2": "2026-05-08 12:49:04 -0300"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/fluidizer/powerport": {
+    "criteria": {
+      "has_item2": "2026-05-08 12:49:04 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2026-05-08 12:49:04 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2026-05-08 13:03:25 -0300"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2026-05-08 13:10:47 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2026-05-08 13:50:56 -0300"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_the_recipe": "2026-05-08 13:50:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-05-08 13:50:56 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-05-08 13:50:56 -0300"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2026-05-08 13:50:56 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2026-05-08 13:50:56 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-05-08 13:50:56 -0300"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2026-05-08 14:05:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2026-05-08 14:05:00 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-08 14:06:29 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-08 14:06:29 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-08 14:06:29 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-08 14:06:29 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2026-05-08 14:40:33 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-05-08 14:49:02 -0300"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2026-05-08 14:50:47 -0300"
     },
     "done": true
   },

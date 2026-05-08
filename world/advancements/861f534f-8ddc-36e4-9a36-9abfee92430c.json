@@ -16485,51 +16485,27 @@
     },
     "done": true
   },
-  "allthemodium:recipes/misc/allthemodium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2026-05-07 20:42:50 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_necrodermal": {
-    "criteria": {
-      "has_alt_item": "2026-05-07 21:13:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2026-05-07 20:51:08 -0300"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
-    "criteria": {
-      "has_item": "2026-05-07 20:47:27 -0300"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/backpack_filter_upgrade_from_storage_filter_upgrade": {
     "criteria": {
       "has_storage_upgrade": "2026-05-07 19:47:08 -0300"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "sophisticatedstorage:recipes/misc/advanced_filter_upgrade": {
     "criteria": {
-      "has_spruce_trapdoor": "2026-05-07 21:13:48 -0300"
+      "has_filter_upgrade": "2026-05-07 19:47:08 -0300"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2026-05-07 20:42:50 -0300"
     },
     "done": true
   },
   "occultism:recipes/crushing/crushing/allthemodium_dust_from_raw": {
     "criteria": {
       "has_raw_allthemodium": "2026-05-07 20:42:50 -0300"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/allthemodium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2026-05-07 20:49:09 -0300"
     },
     "done": true
   },
@@ -16545,42 +16521,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2026-05-07 21:10:25 -0300"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/allthemodium_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2026-05-07 20:49:09 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2026-05-07 21:10:21 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/advanced_filter_upgrade": {
-    "criteria": {
-      "has_filter_upgrade": "2026-05-07 19:47:08 -0300"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
-    "criteria": {
-      "has_item": "2026-05-07 20:51:08 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/allthemodium_dust_from_ingot": {
-    "criteria": {
-      "has_allthemodium_ingot": "2026-05-07 20:49:09 -0300"
-    },
-    "done": true
-  },
   "allthemodium:recipes/misc/allthemodium_dust_from_ore_crushing": {
     "criteria": {
       "has_item": "2026-05-07 20:42:50 -0300"
@@ -16593,15 +16533,39 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/ruby_dust_from_gem": {
+    "criteria": {
+      "has_ruby_gem": "2026-05-07 20:46:35 -0300"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-05-07 20:47:27 -0300"
+    },
+    "done": true
+  },
   "allthemodium:recipes/misc/allthemodium_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2026-05-07 20:47:27 -0300"
     },
     "done": true
   },
-  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+  "allthemodium:recipes/misc/allthemodium_nugget_from_ingot": {
     "criteria": {
-      "has_item": "2026-05-07 20:51:08 -0300"
+      "has_item": "2026-05-07 20:49:09 -0300"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2026-05-07 20:49:09 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/allthemodium_dust_from_ingot": {
+    "criteria": {
+      "has_allthemodium_ingot": "2026-05-07 20:49:09 -0300"
     },
     "done": true
   },
@@ -16623,9 +16587,45 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/ruby_dust_from_gem": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_ruby_gem": "2026-05-07 20:46:35 -0300"
+      "has_coal_block": "2026-05-07 20:51:08 -0300"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2026-05-07 20:51:08 -0300"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2026-05-07 20:51:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2026-05-07 21:10:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2026-05-07 21:10:25 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2026-05-07 21:13:47 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-05-07 21:13:48 -0300"
     },
     "done": true
   },
