@@ -10673,5 +10673,11 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2026-05-09 15:07:42 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
