@@ -3432,6 +3432,8 @@
     "criteria": {
       "minecraft:blaze": "2026-05-01 14:31:51 -0300",
       "minecraft:skeleton": "2026-04-30 20:40:10 -0300",
+      "minecraft:ghast": "2026-05-09 16:47:25 -0300",
+      "minecraft:hoglin": "2026-05-09 16:59:55 -0300",
       "minecraft:spider": "2026-04-29 19:20:18 -0300",
       "minecraft:creeper": "2026-04-30 23:30:24 -0300",
       "minecraft:slime": "2026-05-01 21:05:19 -0300",
@@ -10702,9 +10704,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
+      "get_ore": "2026-05-09 16:47:44 -0300",
       "get_ingot": "2026-05-01 14:32:43 -0300"
     },
-    "done": false
+    "done": true
   },
   "silentgear:recipes/misc/crimson_iron_dust_blasting": {
     "criteria": {
@@ -16626,6 +16629,36 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2026-05-07 21:13:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-05-09 16:30:20 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-05-09 16:32:19 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_crimson_iron": "2026-05-09 16:47:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-05-09 16:47:56 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ground_skeleton": {
+    "criteria": {
+      "has_planks": "2026-05-09 16:47:56 -0300"
     },
     "done": true
   },
