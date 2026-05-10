@@ -16662,5 +16662,857 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/clear_potion_filter": {
+    "criteria": {
+      "has_potion_filter": "2026-05-10 00:13:41 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2026-05-09 23:27:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_yellow": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-05-10 00:04:37 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_purple": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-05-09 23:56:08 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_cyan": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_red": {
+    "criteria": {
+      "has_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/infusion_pylon": {
+    "criteria": {
+      "has_the_recipe": "2026-05-10 00:10:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2026-05-10 00:19:43 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_cyan": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/scarecrow": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-05-09 23:53:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_purple": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/medium_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_pumpkins": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_red": {
+    "criteria": {
+      "has_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_purple": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_yellow": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_pumpkins": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/large_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_yellow": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_cyan": {
+    "criteria": {
+      "has_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_red": {
+    "criteria": {
+      "has_dye": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-05-10 00:19:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-05-10 00:10:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:52:31 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:09 -0300"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/potion_filter": {
+    "criteria": {
+      "has_infusion_pylon": "2026-05-10 00:10:42 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-09 23:56:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2026-05-10 00:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-05-10 00:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 00:13:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-05-10 00:04:37 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-10 00:00:36 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
