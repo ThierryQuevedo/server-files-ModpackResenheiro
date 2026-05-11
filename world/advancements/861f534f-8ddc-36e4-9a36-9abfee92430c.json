@@ -3334,8 +3334,12 @@
       "minecraft:river": "2026-04-29 23:09:04 +0000",
       "minecraft:stony_shore": "2026-05-06 01:21:15 +0000",
       "minecraft:grove": "2026-04-29 23:29:52 +0000",
+      "minecraft:cold_ocean": "2026-05-11 14:35:55 +0000",
       "minecraft:forest": "2026-04-29 22:38:35 +0000",
+      "minecraft:deep_cold_ocean": "2026-05-11 14:36:31 +0000",
+      "minecraft:frozen_ocean": "2026-05-11 14:37:54 +0000",
       "minecraft:desert": "2026-05-01 22:47:29 +0000",
+      "minecraft:deep_frozen_ocean": "2026-05-11 14:36:46 +0000",
       "minecraft:jungle": "2026-05-01 17:50:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2026-04-29 23:10:55 +0000",
       "minecraft:windswept_savanna": "2026-05-01 17:51:26 +0000",
@@ -17516,6 +17520,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2026-05-10 20:05:30 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
       "spellstone": "2026-05-10 20:05:35 +0000"
@@ -17528,9 +17538,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass1": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "recipe_condition": "2026-05-10 20:21:04 +0000"
+      "has_warp_scroll": "2026-05-10 20:08:06 +0000"
     },
     "done": true
   },
@@ -17540,15 +17550,21 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
+  "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
-      "has_warp_scroll": "2026-05-10 20:08:06 +0000"
+      "recipe_condition": "2026-05-10 20:21:04 +0000"
     },
     "done": true
   },
-  "enigmaticlegacy:book/relics/unholy_grail": {
+  "lootr:100loot": {
     "criteria": {
-      "has_items": "2026-05-10 20:05:30 +0000"
+      "loot_stat": "2026-05-11 14:29:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_item": "2026-05-11 14:25:56 +0000"
     },
     "done": true
   },
