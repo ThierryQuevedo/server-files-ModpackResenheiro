@@ -28,5 +28,11 @@
     "name": "Ticiiin",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a588a9f1-e04b-367b-87ac-d1cd5e9ee26c",
+    "name": "Arboly",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
