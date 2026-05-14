@@ -18505,9 +18505,10 @@
   },
   "silentgear:azure_silver": {
     "criteria": {
+      "get_ore": "2026-05-14 14:54:12 -0300",
       "get_ingot": "2026-05-13 19:30:29 -0300"
     },
-    "done": false
+    "done": true
   },
   "botania:main/ender_air_make": {
     "criteria": {
@@ -18569,15 +18570,21 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/shulker_box": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "has_shulker_shell": "2026-05-13 21:13:30 -0300"
+      "requirement": "2026-05-13 20:28:01 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
-      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
+      "has_item": "2026-05-13 20:28:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-05-13 20:39:23 -0300"
     },
     "done": true
   },
@@ -18593,75 +18600,9 @@
     },
     "done": true
   },
-  "enigmaticaddons:recipes/generic/astral_spear": {
-    "criteria": {
-      "has_items": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/escape_scroll": {
-    "criteria": {
-      "has_the_recipe": "2026-05-13 21:20:57 -0300"
-    },
-    "done": true
-  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2026-05-13 20:49:44 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/lore_inscriber": {
-    "criteria": {
-      "has_the_recipe": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
-    "criteria": {
-      "has_items": "2026-05-13 21:15:41 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/cosmic_heart": {
-    "criteria": {
-      "has_items": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/astral_dust": {
-    "criteria": {
-      "has_items": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2026-05-13 21:13:30 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/end_anchor": {
-    "criteria": {
-      "has_the_recipe": "2026-05-13 21:20:57 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/eye_of_nebula": {
-    "criteria": {
-      "has_items": "2026-05-13 21:20:57 -0300"
     },
     "done": true
   },
@@ -18671,9 +18612,81 @@
     },
     "done": true
   },
-  "bountifulbaubles:recipes/combat/free_action_ring": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "has_smithing_material": "2026-05-13 21:15:26 -0300"
+      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-05-13 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/dragon_bow": {
+    "criteria": {
+      "has_the_recipe": "2026-05-13 21:11:48 -0300"
+    },
+    "done": true
+  },
+  "enigmaticaddons:recipes/generic/dragon_bow": {
+    "criteria": {
+      "has_items": "2026-05-13 21:11:48 -0300"
+    },
+    "done": true
+  },
+  "enigmaticaddons:recipes/generic/astral_spear": {
+    "criteria": {
+      "has_items": "2026-05-13 21:12:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2026-05-13 21:12:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cosmic_heart": {
+    "criteria": {
+      "has_items": "2026-05-13 21:12:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/astral_dust": {
+    "criteria": {
+      "has_items": "2026-05-13 21:12:20 -0300"
     },
     "done": true
   },
@@ -18707,12 +18720,6 @@
     },
     "done": true
   },
-  "enigmaticaddons:book/tools/dragon_bow": {
-    "criteria": {
-      "has_the_recipe": "2026-05-13 21:11:48 -0300"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/astral_breaker": {
     "criteria": {
       "has_items": "2026-05-13 21:12:20 -0300"
@@ -18728,24 +18735,6 @@
   "enigmaticlegacy:recipes/generic/lore_inscriber": {
     "criteria": {
       "has_items": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2026-05-13 21:19:26 -0300"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/end_anchor": {
-    "criteria": {
-      "has_items": "2026-05-13 21:20:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2026-05-13 20:39:23 -0300"
     },
     "done": true
   },
@@ -18779,30 +18768,6 @@
     },
     "done": false
   },
-  "enigmaticlegacy:main/mending_mixture": {
-    "criteria": {
-      "spellstone": "2026-05-13 21:25:55 -0300"
-    },
-    "done": true
-  },
-  "mekanism:purification_chamber": {
-    "criteria": {
-      "purification_chamber": "2026-05-13 21:43:04 -0300"
-    },
-    "done": true
-  },
-  "enigmaticaddons:recipes/generic/dragon_bow": {
-    "criteria": {
-      "has_items": "2026-05-13 21:11:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2026-05-13 20:58:17 -0300"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/astral_block": {
     "criteria": {
       "has_item": "2026-05-13 21:12:20 -0300"
@@ -18812,24 +18777,6 @@
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2026-05-13 21:12:20 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
-    "criteria": {
-      "has_item": "2026-05-13 20:28:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2026-05-13 20:58:17 -0300"
     },
     "done": true
   },
@@ -18845,21 +18792,333 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2026-05-13 21:11:35 -0300"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2026-05-13 20:28:01 -0300"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/astral_potato": {
     "criteria": {
       "has_items": "2026-05-13 21:12:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-05-13 21:13:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-05-13 21:13:30 -0300"
+    },
+    "done": true
+  },
+  "bountifulbaubles:recipes/combat/free_action_ring": {
+    "criteria": {
+      "has_smithing_material": "2026-05-13 21:15:26 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
+    "criteria": {
+      "has_items": "2026-05-13 21:15:41 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2026-05-13 21:19:26 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-05-13 21:20:57 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2026-05-13 21:20:57 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2026-05-13 21:20:57 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2026-05-13 21:20:57 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2026-05-13 21:25:55 -0300"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2026-05-13 21:43:04 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2026-05-14 13:36:28 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust": {
+    "criteria": {
+      "has_sapphire": "2026-05-14 13:55:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-05-14 13:55:50 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2026-05-14 13:57:03 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2026-05-14 13:58:47 -0300"
+    },
+    "done": true
+  },
+  "silentcompat:recipes/misc/sculk_alloy_ingot": {
+    "criteria": {
+      "has_skreecher_soul": "2026-05-14 13:58:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-05-14 13:59:13 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "echoing": "2026-05-14 14:02:04 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2026-05-14 14:02:19 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_azure_silver_block": {
+    "criteria": {
+      "has_item": "2026-05-14 14:54:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-14 14:21:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-14 14:21:37 -0300"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2026-05-14 14:21:37 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/max_stats": {
+    "criteria": {
+      "enchanted_item": "2026-05-14 14:48:31 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/azure_silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_azure_silver": "2026-05-14 14:54:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-14 14:21:37 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_raw_ore_smelting": {
+    "criteria": {
+      "has_item": "2026-05-14 14:54:12 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/aversion_obelisk": {
+    "criteria": {
+      "has_ingredient": "2026-05-14 14:52:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-14 14:21:37 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2026-05-14 14:48:31 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_raw_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-14 14:54:12 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2026-05-14 14:17:15 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2026-05-14 14:47:49 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2026-05-14 14:47:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_azure_silver_from_block": {
+    "criteria": {
+      "has_item": "2026-05-14 14:54:12 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-05-14 14:21:36 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2026-05-14 14:17:02 -0300"
     },
     "done": true
   },
