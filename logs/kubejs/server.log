@@ -1,0 +1,10 @@
+[21:31:37] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[21:31:37] [INIT] Loaded plugins:
+[21:31:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:31:37] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[21:31:37] [INIT] - dev.mayaqq.createestrogen.compat.kubejs.CreateEstrogenKubeJSPlugin
+[21:31:38] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[21:31:38] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[21:31:38] [INFO] Loaded 1/1 KubeJS server scripts in 0.01 s with 0 errors and 0 warnings
+[21:31:38] [INFO] Scripts loaded
+[21:31:56] [INFO] Server resource reload complete!
