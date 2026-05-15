@@ -18,7 +18,7 @@
     "spaghetti_enabled": true
   },
   "continents": {
-    "continents_scale": 0.13,
+    "continents_scale": 0.08,
     "erosion_scale": 0.25,
     "flat_terrain_skew": 0.1,
     "jungle_pillars": true,
