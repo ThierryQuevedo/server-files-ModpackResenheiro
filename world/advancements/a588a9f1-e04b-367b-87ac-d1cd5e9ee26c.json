@@ -16117,9 +16117,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
-      "has_parent_recipe": "2026-05-08 13:50:56 -0300"
+      "has_parent_recipe": "2026-05-08 13:50:56 -0300",
+      "has_core_block": "2026-05-17 10:57:25 -0300"
     },
-    "done": false
+    "done": true
   },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
@@ -20110,621 +20111,9 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/conduit_probe": {
+  "ae2:recipes/misc/network/blocks/io_port": {
     "criteria": {
-      "has_ingrediant": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_purple": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_fixture": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2026-05-16 20:05:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/chute": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_64k": {
-    "criteria": {
-      "has_cell_component_64k": "2026-05-16 20:37:54 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/conductive_alloy_grinding_ball": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rope_pulley": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/quantum_link": {
-    "criteria": {
-      "has_fluix_pearl": "2026-05-16 20:24:21 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_256k": {
-    "criteria": {
-      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_part": {
-    "criteria": {
-      "has_the_recipe": "2026-05-16 20:01:29 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass1": {
-    "criteria": {
-      "recipe_condition": "2026-05-16 22:04:23 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
-    "criteria": {
-      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_crafting_terminal": {
-    "criteria": {
-      "has_terminal": "2026-05-16 19:58:36 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/pulsating_alloy_grinding_ball": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:06:39 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/ender_fluid_conduit_upgrade": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:05:15 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_magenta": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2026-05-16 21:29:01 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/belt_connector": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_blue_pane2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_blue2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/track_switch_andesite": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/metal_girder": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_cyan": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
-    "criteria": {
-      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_256k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "rats:plague_doctor": {
-    "criteria": {
-      "meet_doctor": "2026-05-16 21:04:45 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_64k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometer": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/desk_bell": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2026-05-16 20:05:53 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_yellow": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/copper_alloy_grinding_ball": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:38 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/filter": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/white_sail": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:main/crafting_terminal": {
-    "criteria": {
-      "certus": "2026-05-16 19:58:36 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_brown": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_4k": {
-    "criteria": {
-      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/linear_chassis": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_white": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_light_blue": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
-    "criteria": {
-      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
-    },
-    "done": true
-  },
-  "ae2:main/storage_cell": {
-    "criteria": {
-      "c256k": "2026-05-16 20:43:30 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
-    "criteria": {
-      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/view_cell_storage": {
-    "criteria": {
-      "has_terminal": "2026-05-16 19:58:18 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
-    "criteria": {
-      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/tools/coordinate_selector": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:38 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_256k_storage": {
-    "criteria": {
-      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/view_cell": {
-    "criteria": {
-      "has_terminal": "2026-05-16 19:58:18 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/network_color_applicator": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/copper_alloy_nugget": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:38 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_64k_storage": {
-    "criteria": {
-      "has_cell_component_64k": "2026-05-16 20:37:54 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_blue2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
-    "criteria": {
-      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/pulsating_alloy_nugget": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:06:39 -0300"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/redstone_dust": {
-    "criteria": {
-      "has_redstone": "2026-05-16 21:29:01 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/item_hatch": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/extraction_speed_upgrade_1_upgrade": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_16k_storage": {
-    "criteria": {
-      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+      "has_drive": "2026-05-16 19:54:41 -0300"
     },
     "done": true
   },
@@ -20734,39 +20123,15 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_terminal": "2026-05-16 19:58:18 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+  "ae2:recipes/misc/network/cells/view_cell": {
     "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_red": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wrench": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_terminal": "2026-05-16 19:58:18 -0300"
     },
     "done": true
   },
@@ -20776,231 +20141,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+  "ae2:recipes/misc/network/wireless_crafting_terminal": {
     "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
+      "has_terminal": "2026-05-16 19:58:36 -0300"
     },
     "done": true
   },
-  "enderio:recipes/misc/extraction_speed_upgrade_2_upgrade": {
+  "ae2:main/crafting_terminal": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/water_wheel": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
-    "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_orange": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_five_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_16k": {
-    "criteria": {
-      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_256k": {
-    "criteria": {
-      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_64k_part": {
-    "criteria": {
-      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2026-05-16 21:29:01 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_green": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_black": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "ae2:main/charged_quartz": {
-    "criteria": {
-      "certus": "2026-05-16 20:05:53 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/conductive_alloy_nugget_to_ingot": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
-    "criteria": {
-      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_lime": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_blue": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/shaft": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_blue2": {
-    "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hand_crank": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_access_point": {
-    "criteria": {
-      "has_wireless_receiver": "2026-05-16 20:01:29 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/tools/yeta_wrench": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:38 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/turntable": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/extraction_speed_upgrade_2": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_light_gray": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticker": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "certus": "2026-05-16 19:58:36 -0300"
     },
     "done": true
   },
@@ -21010,111 +20159,63 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
+  "ae2:recipes/misc/network/wireless_part": {
     "criteria": {
-      "has_item": "2026-05-16 21:31:36 -0300"
+      "has_the_recipe": "2026-05-16 20:01:29 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+  "ae2:recipes/misc/network/wireless_access_point": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_wireless_receiver": "2026-05-16 20:01:29 -0300"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_five": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/item_storage_cell_16k": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
     "criteria": {
-      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/goggles": {
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/display_board": {
+  "ae2:recipes/misc/tools/network_color_applicator": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/blasting/sky_stone_block": {
+  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
     "criteria": {
-      "has_sky_stone_dust": "2026-05-16 20:43:01 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
-    "criteria": {
-      "has_lever": "2026-05-16 21:33:13 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/analog_lever": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_link": {
-    "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cart_assembler": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
-    "criteria": {
-      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2026-05-16 21:30:54 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
-    "criteria": {
-      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
@@ -21124,45 +20225,39 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/pulsating_alloy_nugget_to_ingot": {
-    "criteria": {
-      "has_ingredient": "2026-05-16 21:06:39 -0300"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/portable_item_cell_16k": {
     "criteria": {
       "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_gray": {
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
     "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
+      "has_energy_cell": "2026-05-16 20:04:22 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_256k_storage": {
+  "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
-      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
+      "has_charged_certus_quartz_crystal": "2026-05-16 20:05:53 -0300"
     },
     "done": true
   },
-  "enderio:recipes/building_blocks/pressurized_fluid_conduit": {
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
-      "has_the_recipe": "2026-05-16 21:05:14 -0300"
+      "has_charged_certus_quartz_crystal": "2026-05-16 20:05:53 -0300"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+  "ae2:main/charged_quartz": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "certus": "2026-05-16 20:05:53 -0300"
     },
     "done": true
   },
@@ -21172,81 +20267,117 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
-    "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/wireless_booster": {
     "criteria": {
       "has_dusts/ender": "2026-05-16 20:10:04 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/basin": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/chain_conveyor": {
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
     "criteria": {
-      "has_item": "2026-05-16 21:31:03 -0300"
+      "has_cell_component_1k": "2026-05-16 20:13:21 -0300"
     },
     "done": true
   },
-  "enderio:recipes/misc/copper_alloy_nugget_to_ingot": {
+  "ae2:recipes/misc/network/blocks/quantum_link": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:03:38 -0300"
+      "has_fluix_pearl": "2026-05-16 20:24:21 -0300"
     },
     "done": true
   },
-  "enderio:recipes/building_blocks/recolor_fused_quartz_pink": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:04:59 -0300"
+      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
     },
     "done": true
   },
-  "constructionwand:recipes/misc/core_angel": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
     "criteria": {
-      "has_item": "2026-05-16 21:19:49 -0300"
+      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
     },
     "done": true
   },
-  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
     "criteria": {
-      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
     },
     "done": true
   },
-  "enderio:recipes/misc/conductive_alloy_nugget": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:03:49 -0300"
+      "has_cell_component_4k": "2026-05-16 20:35:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_16k_storage": {
+    "criteria": {
+      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_16k": {
+    "criteria": {
+      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_64k_part": {
+    "criteria": {
+      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_16k": {
+    "criteria": {
+      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_16k_storage": {
+    "criteria": {
+      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_64k": {
+    "criteria": {
+      "has_cell_component_64k": "2026-05-16 20:37:54 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_64k_storage": {
+    "criteria": {
+      "has_cell_component_64k": "2026-05-16 20:37:54 -0300"
     },
     "done": true
   },
@@ -21268,51 +20399,225 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+  "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
+      "has_sky_stone_dust": "2026-05-16 20:43:01 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/cogwheel": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_256k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+  "ae2:recipes/misc/network/cells/item_storage_cell_256k_storage": {
     "criteria": {
-      "has_energy_cell": "2026-05-16 20:04:22 -0300"
+      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_256k": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_256k_storage": {
     "criteria": {
-      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+      "has_cell_component_256k": "2026-05-16 20:43:10 -0300"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+  "ae2:main/storage_cell": {
     "criteria": {
-      "has_item": "2026-05-16 21:30:46 -0300"
+      "c256k": "2026-05-16 20:43:30 -0300"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+  "enderio:recipes/misc/copper_alloy_grinding_ball": {
     "criteria": {
-      "has_ingredient": "2026-05-16 21:33:13 -0300"
+      "has_ingredient": "2026-05-16 21:03:38 -0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/io_port": {
+  "enderio:recipes/tools/coordinate_selector": {
     "criteria": {
-      "has_drive": "2026-05-16 19:54:41 -0300"
+      "has_ingredient": "2026-05-16 21:03:38 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:38 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/yeta_wrench": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:38 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:38 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_probe": {
+    "criteria": {
+      "has_ingrediant": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_1_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_2_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_2": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:03:49 -0300"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2026-05-16 21:04:45 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_purple": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_magenta": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_cyan": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_yellow": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_brown": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_white": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_light_blue": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_red": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_orange": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_green": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_black": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_lime": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_blue": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_light_gray": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_gray": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/recolor_fused_quartz_pink": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:04:59 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/pressurized_fluid_conduit": {
+    "criteria": {
+      "has_the_recipe": "2026-05-16 21:05:14 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/ender_fluid_conduit_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:05:15 -0300"
     },
     "done": true
   },
@@ -21322,9 +20627,663 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/pulsating_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:06:39 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pulsating_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:06:39 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pulsating_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:06:39 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:19:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-05-16 21:29:01 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/redstone_dust": {
+    "criteria": {
+      "has_redstone": "2026-05-16 21:29:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-05-16 21:29:01 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/item_hatch": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2026-05-16 21:30:46 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-05-16 21:30:54 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/desk_bell": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chain_conveyor": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2026-05-16 21:31:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2026-05-16 21:31:36 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_lever": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2026-05-16 21:33:13 -0300"
     },
     "done": true
   },
@@ -21334,9 +21293,135 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/item_storage_cell_16k_storage": {
+  "connectedglass:recipes/misc/clear_glass_blue_pane2": {
     "criteria": {
-      "has_cell_component_16k": "2026-05-16 20:35:27 -0300"
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2026-05-16 21:58:59 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2026-05-16 22:04:23 -0300"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2026-05-17 10:57:25 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2026-05-17 10:57:25 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_magnet_upgrade_from_backpack_advanced_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-05-17 11:02:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-05-17 11:04:16 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2026-05-17 11:04:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-05-17 11:04:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-05-17 11:04:16 -0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_spruce_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2026-05-17 11:14:28 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2026-05-17 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2026-05-17 12:42:14 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2026-05-17 12:42:14 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2026-05-17 12:42:14 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2026-05-17 12:42:14 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2026-05-17 12:42:14 -0300"
     },
     "done": true
   },
