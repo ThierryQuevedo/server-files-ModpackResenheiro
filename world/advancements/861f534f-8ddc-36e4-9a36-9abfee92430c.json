@@ -20197,33 +20197,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_rod": {
+  "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/misc/smelting/yellorium_from_ore": {
-    "criteria": {
-      "has_item": "2026-05-19 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/misc/blasting/yellorium_from_ore": {
-    "criteria": {
-      "has_item": "2026-05-19 21:50:07 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
-    "criteria": {
-      "has_uranium_ingot": "2026-05-19 21:58:01 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
+      "has_tin": "2026-05-19 21:45:23 +0000"
     },
     "done": true
   },
@@ -20233,15 +20209,45 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/tin_dust": {
+  "occultism:recipes/crushing/crushing/platinum_dust": {
     "criteria": {
-      "has_tin": "2026-05-19 21:45:23 +0000"
+      "has_platinum": "2026-05-19 21:46:30 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_block": {
+  "alltheores:recipes/misc/platinum_ingot_from_ore_blasting": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
+      "has_item": "2026-05-19 21:46:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/fluorite_dust": {
+    "criteria": {
+      "has_fluorite": "2026-05-19 21:46:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-19 21:46:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-19 21:46:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust": {
+    "criteria": {
+      "has_nickel": "2026-05-19 21:46:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/peridot_dust": {
+    "criteria": {
+      "has_peridot": "2026-05-19 21:46:46 +0000"
     },
     "done": true
   },
@@ -20251,21 +20257,27 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/reactor/basic/chargingfe": {
+  "occultism:recipes/crushing/crushing/osmium_dust": {
     "criteria": {
-      "has_item": "2026-05-19 21:51:44 +0000"
+      "has_osmium": "2026-05-19 21:47:34 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/platinum_dust": {
+  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
     "criteria": {
-      "has_platinum": "2026-05-19 21:46:30 +0000"
+      "has_item": "2026-05-19 21:47:34 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/fluorite_dust": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
-      "has_fluorite": "2026-05-19 21:46:34 +0000"
+      "has_gold_ore": "2026-05-19 21:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2026-05-19 21:47:37 +0000"
     },
     "done": true
   },
@@ -20281,9 +20293,21 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/osmium_dust": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "has_osmium": "2026-05-19 21:47:34 +0000"
+      "has_diamond_ore": "2026-05-19 21:48:06 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-19 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-19 21:50:07 +0000"
     },
     "done": true
   },
@@ -20293,9 +20317,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+  "bigreactors:recipes/building_blocks/reactor/basic/chargingfe": {
     "criteria": {
-      "has_gold_ore": "2026-05-19 21:47:37 +0000"
+      "has_item": "2026-05-19 21:51:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
+    "criteria": {
+      "has_uranium_ingot": "2026-05-19 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2026-05-19 21:58:01 +0000"
     },
     "done": true
   },
@@ -20305,51 +20353,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2026-05-19 21:46:34 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_block": {
-    "criteria": {
-      "has_item": "2026-05-19 21:58:10 +0000"
-    },
-    "done": true
-  },
   "bigreactors:recipes/building_blocks/reactor/reinforced/controller_ingots_uranium": {
     "criteria": {
       "has_item2": "2026-05-19 21:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2026-05-19 21:47:37 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/platinum_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2026-05-19 21:46:30 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2026-05-19 21:47:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/peridot_dust": {
-    "criteria": {
-      "has_peridot": "2026-05-19 21:46:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2026-05-19 21:46:34 +0000"
     },
     "done": true
   },
@@ -20359,15 +20365,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "alltheores:recipes/misc/uranium_ingot_from_block": {
     "criteria": {
-      "has_diamond_ore": "2026-05-19 21:48:06 +0000"
+      "has_item": "2026-05-19 21:58:10 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/nickel_dust": {
+  "mekanism:installer": {
     "criteria": {
-      "has_nickel": "2026-05-19 21:46:34 +0000"
+      "installer": "2026-05-22 10:44:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2026-05-22 10:55:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2026-05-22 11:18:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2026-05-22 11:20:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2026-05-22 11:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-05-22 11:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-05-22 11:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-05-22 11:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2026-05-22 11:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-22 11:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-22 11:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-22 11:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-05-22 11:59:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2026-05-22 12:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-05-22 12:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-05-22 12:07:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/illusion_lantern": {
+    "criteria": {
+      "has_items": "2026-05-22 12:07:56 +0000"
     },
     "done": true
   },
