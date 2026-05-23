@@ -3456,7 +3456,8 @@
       "minecraft:piglin": "2026-05-01 16:43:27 +0000",
       "minecraft:enderman": "2026-05-02 00:01:13 +0000",
       "minecraft:silverfish": "2026-05-13 22:28:38 +0000",
-      "minecraft:zombie": "2026-04-30 23:40:15 +0000"
+      "minecraft:zombie": "2026-04-30 23:40:15 +0000",
+      "minecraft:zombie_villager": "2026-05-23 18:58:44 +0000"
     },
     "done": false
   },
@@ -20572,6 +20573,648 @@
   "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2026-05-23 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_probe": {
+    "criteria": {
+      "has_ingrediant": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/photovoltaic_composite": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-05-23 17:41:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/256k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_3_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_planks_from_slabs": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_planks_from_stairs": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/soularium_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/coal_dust": {
+    "criteria": {
+      "has_coal": "2026-05-23 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/16k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:54:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2026-05-23 17:39:35 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/crafting/cyanite_component_to_storage": {
+    "criteria": {
+      "has_item": "2026-05-23 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:52:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2026-05-23 17:57:10 +0000"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_wood": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/ensouled_chassis": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2026-05-23 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-05-23 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2026-05-23 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_charcoal": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/coordinate_selector": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_planks": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/64k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_stick": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-23 19:06:33 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:52:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust": {
+    "criteria": {
+      "has_lapis": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_monitor": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-05-23 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_accelerator": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2026-05-23 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/soul_chain": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_1_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-23 19:06:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust": {
+    "criteria": {
+      "has_emerald": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_2_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/1k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iridium_dust": {
+    "criteria": {
+      "has_iridium": "2026-05-23 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-23 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2026-05-23 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/double_layer_capacitor": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:25:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_stairs": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/experience_rod": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/yeta_wrench": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_4": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_1": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_3": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_2": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/netherwood_slab": {
+    "criteria": {
+      "has_item": "2026-05-23 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_item_filter": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 19:02:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/mithril_dust": {
+    "criteria": {
+      "has_mithril": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-05-23 18:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-05-23 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/soularium_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/4k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2026-05-23 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/octadic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:54:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2026-05-23 17:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/shaft": {
+    "criteria": {
+      "has_item": "2026-05-23 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2026-05-23 18:12:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2026-05-23 18:10:51 +0000"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_filter_base": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/casing": {
+    "criteria": {
+      "has_item": "2026-05-23 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:25:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-23 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/blade": {
+    "criteria": {
+      "has_item": "2026-05-23 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/sapphire]_ingot": "2026-05-23 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2026-05-23 18:12:07 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/soularium_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:25:06 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conductive_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:52:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2026-05-23 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/empty_soul_vial": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/soularium_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:46:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2026-05-23 18:25:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2026-05-23 17:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-05-23 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust": {
+    "criteria": {
+      "has_copper": "2026-05-23 18:11:10 +0000"
     },
     "done": true
   },
