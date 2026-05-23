@@ -1,8 +1,8 @@
-[10:18:18] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
-[10:18:18] [INIT] Loaded plugins:
-[10:18:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[10:18:18] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[10:18:18] [INIT] - dev.mayaqq.createestrogen.compat.kubejs.CreateEstrogenKubeJSPlugin
-[10:18:19] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[10:18:19] [INFO] Loaded script startup_scripts:example.js in 0.142 s
-[10:18:19] [INFO] Loaded 1/1 KubeJS startup scripts in 0.978 s with 0 errors and 0 warnings
+[00:02:11] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[00:02:11] [INIT] Loaded plugins:
+[00:02:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:02:11] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[00:02:11] [INIT] - dev.mayaqq.createestrogen.compat.kubejs.CreateEstrogenKubeJSPlugin
+[00:02:12] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[00:02:12] [INFO] Loaded script startup_scripts:example.js in 0.177 s
+[00:02:12] [INFO] Loaded 1/1 KubeJS startup scripts in 1.001 s with 0 errors and 0 warnings
